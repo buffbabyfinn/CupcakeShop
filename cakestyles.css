@@ -1,0 +1,42 @@
+.best {
+  color:#a200ff;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 45px;
+}
+
+li {
+  color: #8ec127;
+  font-style: italic;
+}
+
+body{
+  font-size: 22px;
+  background-color: #00aedb;
+  text-align: center;
+}
+
+.flashy{
+  color: #d41243;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: fantasy;
+
+}
+
+h2 {
+  color: #660066;
+  font-weight: bold;
+}
+
+p{
+  color: #f47835;
+}
+
+.huge{
+  color: #d41243;
+  font-size: 60px;
+}
